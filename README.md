@@ -1,7 +1,7 @@
 <h1 align="center"> #boraCodar ~Desafio022</h1>
 
-<p align="center">🛒 Projeto foi criado durante o 22º desafio lançado pelo #boraCodar da Rocketseat.
-<p align="center"><img width="1920" alt="Cover" src="https://github.com/iamsandralima/boraCodar-Desafio22/assets/107657763/367c10d8-121e-4606-8211-d41205b2b686">
+<p align="center">⚙️ Projeto foi criado durante o 22º desafio lançado pelo #boraCodar da Rocketseat.
+<p align="center"><img width="800" alt="Cover" src="https://github.com/iamsandralima/boraCodar-Desafio22/assets/107657763/367c10d8-121e-4606-8211-d41205b2b686">
 
 # 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
